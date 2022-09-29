@@ -16,7 +16,7 @@
 - 🌱 I’m currently learning computer science and web development
 - 📫 How to reach me: zktm9903@gmail.com
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=zktm9903)](https://github.com/zktm9903/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=zktm9903)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **zktm9903/zktm9903** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
