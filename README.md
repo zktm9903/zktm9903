@@ -1,4 +1,4 @@
-### Frontend Developer 👋
+### Frontend Developer 🥷
 
 <a href="https://www.naver.com/" target="_blank"><img src="https://img.shields.io/badge/html-E34F26?style=flat-square&logo=HTML5&logoColor=FFFFFF"/></a>
 
