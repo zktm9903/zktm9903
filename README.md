@@ -2,9 +2,10 @@
 
 #### Stack 😺
 
-<img style="display: inline" src="https://img.shields.io/badge/html-E34F26?style=flat-square&logo=HTML5&logoColor=FFFFFF"/>
+<a src="https://www.google.com/search?q=css+inline&rlz=1C5CHFA_enKR979KR979&oq=css+inline&aqs=chrome..69i57j0i512l9.2948j0j7&sourceid=chrome&ie=UTF-8"><img style="display: inline" src="https://img.shields.io/badge/html-E34F26?style=flat-square&logo=HTML5&logoColor=FFFFFF"/></a>
 <img style="display: inline" src="https://img.shields.io/badge/css3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp 
+<img style="display: inline" src="https://img.shields.io/badge/css3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
+<img style="display: inline" src="https://img.shields.io/badge/css3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
 <!--
 **zktm9903/zktm9903** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
