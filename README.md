@@ -12,7 +12,7 @@
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=CSS3&logoColor=white"/>
 
 - 🔭 I’m currently majoring in computer engineering.
-- 🔍 I'm currently an undergraduate at the security lab.[lab log](https://github.com/zktm9903/NISL_lab)
+- 🔍 I'm currently an undergraduate at the security lab ([lab log](https://github.com/zktm9903/NISL_lab)).
 - 🌱 I’m currently learning computer science and web development
 - 📫 How to reach me: zktm9903@gmail.com
 
