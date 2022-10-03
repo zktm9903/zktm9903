@@ -20,7 +20,7 @@
 
 project 🦉
 
-- [markdownMemo)(https://github.com/zktm9903/markdownMemo)
+- [markdownMemo](https://github.com/zktm9903/markdownMemo)
 <!--
 **zktm9903/zktm9903** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
