@@ -20,8 +20,8 @@
 
 #### Project 🦉
 
-- [markdownMemo](https://github.com/zktm9903/markdownMemo)
-- [Inter-School Messenger Using Blockchain](https://github.com/zktm9903/NISL_Slack)
+- [markdownMemo (personal)](https://github.com/zktm9903/markdownMemo)
+- [Inter-School Messenger Using Blockchain (team)](https://github.com/zktm9903/NISL_Slack)
 <!--
 **zktm9903/zktm9903** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
