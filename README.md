@@ -11,7 +11,7 @@
 <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=CSS3&logoColor=white"/>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=CSS3&logoColor=white"/> -->
 
-- 🔍 I was an undergraduate at the security lab. ([lab log](https://github.com/zktm9903/NISL_lab)).
+<!-- - 🔍 I was an undergraduate at the security lab. ([lab log](https://github.com/zktm9903/NISL_lab)). -->
 
 
 #### record 🥷
