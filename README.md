@@ -1,6 +1,6 @@
-### Frontend Developer 😺
+### Code monkey 🤔
 
-#### Stack  📌
+#### Stack 📌
 
 <a><img src="https://img.shields.io/badge/html-E34F26?style=flat-square&logo=HTML5&logoColor=FFFFFF"/></a>
 <img src="https://img.shields.io/badge/css3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
@@ -11,12 +11,8 @@
 <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=CSS3&logoColor=white"/>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=CSS3&logoColor=white"/>
 
-- 🔭 I’m currently majoring in computer engineering.
-- 🌱 I’m currently learning computer science and web development.
 - 🔍 I was an undergraduate at the security lab. ([lab log](https://github.com/zktm9903/NISL_lab)).
-- 📫 How to reach me: zktm9903@gmail.com / [linkedin](https://www.linkedin.com/in/ched-349305252/).
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=zktm9903)](https://github.com/anuraghazra/github-readme-stats)
 
 #### Blog 🥷
 
