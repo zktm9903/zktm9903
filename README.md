@@ -1,6 +1,6 @@
 ### Code monkey 🤔
 
-#### Stack 📌
+<!-- #### Stack 📌
 
 <a><img src="https://img.shields.io/badge/html-E34F26?style=flat-square&logo=HTML5&logoColor=FFFFFF"/></a>
 <img src="https://img.shields.io/badge/css3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
@@ -9,20 +9,21 @@
 <img src="https://img.shields.io/badge/styled_components-DB7093?style=flat-square&logo=CSS3&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=CSS3&logoColor=white"/>
 <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=CSS3&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=CSS3&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=CSS3&logoColor=white"/> -->
 
 - 🔍 I was an undergraduate at the security lab. ([lab log](https://github.com/zktm9903/NISL_lab)).
 
 
-#### Blog 🥷
+#### record 🥷
 
-- [이상](https://22sang.tistory.com/)
+- [이상 (blog)](https://22sang.tistory.com)
+- [security lab log](https://github.com/zktm9903/NISL_lab)
 
 #### Project 🦉
 
 - [markdownMemo (personal)](https://github.com/zktm9903/markdownMemo)
 - [Inter-School Messenger Using Blockchain (team)](https://github.com/zktm9903/NISL_Slack)
-- [Provably Secure PUF-Based Lightweight Mutual Authentication Scheme for Wireless Body Area Networks](https://www.mdpi.com/2079-9292/11/23/3868)
+- [Provably Secure PUF-Based Lightweight Mutual Authentication Scheme for Wireless Body Area Networks (paper)](https://www.mdpi.com/2079-9292/11/23/3868)
 <!--
 **zktm9903/zktm9903** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
