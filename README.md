@@ -1,5 +1,3 @@
-### Code monkey 🤔
-
 <!-- #### Stack 📌
 
 <a><img src="https://img.shields.io/badge/html-E34F26?style=flat-square&logo=HTML5&logoColor=FFFFFF"/></a>
@@ -19,7 +17,7 @@
 - [이상 (blog)](https://22sang.tistory.com)
 - [security lab log](https://github.com/zktm9903/NISL_lab)
 
-#### Project 🦉
+#### project 🦉
 
 - [markdownMemo (personal)](https://github.com/zktm9903/markdownMemo)
 - [Inter-School Messenger Using Blockchain (team)](https://github.com/zktm9903/NISL_Slack)
