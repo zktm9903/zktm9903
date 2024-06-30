@@ -23,11 +23,11 @@
 - [Inter-School Messenger Using Blockchain (team)](https://github.com/zktm9903/NISL_Slack) -->
 <!-- 포트폴리오 : [바로가기](https://portfolio-toss.vercel.app/) -->
 
-#### project 🦉
+#### project
 - [Web-Mac-Os](https://github.com/zktm9903/macOs)
-- [LeeSang-blog](https://github.com/zktm9903/leeSang-blog)
+- [Leesang-Blog](https://github.com/zktm9903/leeSang-blog)
 
-#### paper  🌊
+#### paper
 
 - [Provably Secure PUF-Based Lightweight Mutual Authentication Scheme for Wireless Body Area Networks](https://www.mdpi.com/2079-9292/11/23/3868)
 <!--
