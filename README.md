@@ -24,6 +24,7 @@
 <!-- 포트폴리오 : [바로가기](https://portfolio-toss.vercel.app/) -->
 
 #### project
+- [NHN-EAT](https://github.com/zktm9903/nhn-eat)
 - [Web-Mac-Os](https://github.com/zktm9903/macOs)
 - [Leesang-Blog](https://github.com/zktm9903/leeSang-blog)
 
