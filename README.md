@@ -22,11 +22,7 @@
 - [markdownMemo (personal)](https://github.com/zktm9903/markdownMemo)
 - [Inter-School Messenger Using Blockchain (team)](https://github.com/zktm9903/NISL_Slack) -->
 <!-- 포트폴리오 : [바로가기](https://portfolio-toss.vercel.app/) -->
-
-
-#### paper
-
-- [Provably Secure PUF-Based Lightweight Mutual Authentication Scheme for Wireless Body Area Networks](https://www.mdpi.com/2079-9292/11/23/3868)
+[Provably Secure PUF-Based Lightweight Mutual Authentication Scheme for Wireless Body Area Networks](https://www.mdpi.com/2079-9292/11/23/3868)
 <!--
 **zktm9903/zktm9903** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
